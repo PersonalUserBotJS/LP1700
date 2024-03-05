@@ -26,10 +26,10 @@
         Saldo
 
     Direccion
-    idDireccion - PK
-    Departamento
-    Ciudad
-    Calle
+        idDireccion - PK
+        Departamento
+        Ciudad
+        Calle
 
 ## Procedimiento Ejercicio
 
@@ -46,4 +46,7 @@
 
     );
 
+    Estado de la BD: None, Validate, Create
 
+    Buscar documentacion de Lombok
+    
