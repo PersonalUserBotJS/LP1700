@@ -50,3 +50,6 @@
 
     Buscar documentacion de Lombok
     
+    Decoradores @Repository, @OneToOne, @JoinColumn, @JsonIgnore
+    
+
