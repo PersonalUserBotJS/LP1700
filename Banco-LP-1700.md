@@ -52,4 +52,5 @@
     
     Decoradores @Repository, @OneToOne, @JoinColumn, @JsonIgnore
     
+    ModelMapper
 
